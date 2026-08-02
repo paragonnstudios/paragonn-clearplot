@@ -1,0 +1,63 @@
+Mensagens:
+  console:
+    - "&4&lERRO"
+    - "&cComando desativado via Console."
+  help_admin:
+    - " "
+    - "     &6&lAJUDA     "
+    - " "
+    - " &a/clearplot give (jogador) (quantia) &8- &7Dê ao seu jogador desejado um limpador de terreno."
+    - " &a/clearplot menu &8- &7Gerencie a limpeza de seu terreno."
+    - " "
+  help:
+    - " "
+    - "     &6&lAJUDA     "
+    - " "
+    - " &a/clearplot menu &8- &7Gerencie a limpeza de seu terreno."
+    - " "
+  no_player:
+    - "&4&lERRO"
+    - "&cJogador inexistente ou offline."
+  no_arguments:
+    give: "&cUtilize: /clearplot give (jogador) (quantia)."
+  full:
+    - "&4&lERRO"
+    - "&cO inventário de &f'@player' &cestá cheio."
+  give:
+    - "&aLimpador de terreno givado para &f'@player' &acom sucesso &e(Quantia: &f@quantia&e)."
+  loading_process:
+    - "&6&lLIMPEZA &eLimpeza do terreno iniciando..."
+    - "&6&lLIMPEZA &eDigite &f/clearplot menu &epara gerenciar a limpeza."
+  sucess_clean:
+    - "&2&lLIMPEZA - SUCESSO"
+    - "&aTerreno limpo com êxito."
+  no_have_blocks:
+    - "&4&lLIMPEZA - ERRO"
+    - "&cNão há nada para limpar."
+  not_in_plotworld:
+    - "&4&lERRO"
+    - "&cVocê não está no mundo de terrenos."
+  no_terrain:
+    - "&4&lERRO"
+    - "&cVocê não está pisando em nenhum terreno."
+  no_owner:
+    - "&4&lERRO"
+    - "&cVocê está pisando em um terreno que não há dono."
+  you_not_owner:
+    - "&4&lERRO"
+    - "&cVocê está pisando em um terreno que você não é dono do mesmo."
+  clean_on:
+    - "&2&lSUCESSO"
+    - "&aLimpeza iniciada com êxito."
+  no_process:
+    - "&4&lERRO"
+    - "&cVocê &c&nnão &cpossui nenhum processo de limpeza ativo!"
+  clean_cancel:
+    - "&2&lSUCESSO"
+    - "&aLimpeza cancelada com êxito."
+  actionbar:
+    cleaning: "&eLimpando terreno... &eProgresso: &f@progress &7- &eBlocos restantes: &f@blocos."
+    sucess_clean: "&aTerreno limpo com êxito."
+    no_have_blocks: "&cNão há nada para limpar."
+    clean_cancel: "&aLimpeza cancelada com sucesso."
+    off_actionbar: "&cActionBar desativada com êxito."

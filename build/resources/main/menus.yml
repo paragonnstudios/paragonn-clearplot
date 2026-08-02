@@ -1,0 +1,29 @@
+Menu:
+  rows: 3
+  name: "&8ClearPlot - Menu"
+  cancel-slot: 12
+  actionbar-slot: 14
+  cancel:
+    material: BARRIER
+    data: 0
+    name: "&cCancelar Limpeza."
+    lore:
+      - ""
+      - "&7Clique para cancelar a limpeza de seu terreno."
+    glow: true
+  off_actionbar:
+    id: 351
+    data: 10
+    name: "&aDesativar actionbar"
+    lore:
+      - ""
+      - "&7Clique para &fdesativar &7actionbar."
+    glow: false
+  on_actionbar:
+    id: 351
+    data: 8
+    name: "&aAtivar actionbar"
+    lore:
+      - ""
+      - "&7Clique para &fativar &7actionbar."
+    glow: true
