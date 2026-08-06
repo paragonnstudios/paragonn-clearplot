@@ -1,9 +1,0 @@
-name: paragonn-clearplot
-version: 1.0.0
-main: net.elicodes.clearplot.Main
-author: EliCodes
-depend: [FastAsyncWorldEdit, PlotSquared]
-load: POSTWORLD
-commands:
-  clearplot:
-    aliases: [cp, limparterreno]
